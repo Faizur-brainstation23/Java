@@ -10,7 +10,7 @@ public class SimpleGUI {
         // Add a button to the frame
         JButton button = new JButton("Click Me!");
         frame.add(button);
-
+        //coomment
         // Display the frame
         frame.setVisible(true);
     }
