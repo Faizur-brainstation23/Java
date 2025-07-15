@@ -1,0 +1,23 @@
+Array list----------------- 
+
+Stores Ordered elements
+keeps Order
+Allows duplicates
+Best for accessing elements by index.
+
+
+
+Hashset-------------------
+Stores unique elements
+No keeping order
+Best for avoiding duplicates, fast checking.
+
+
+
+
+HashMap--------------------
+Key value pairs
+No keeping orders
+Yes (Keys are uniques)
+Fast lookup by key
+
