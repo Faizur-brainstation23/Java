@@ -1,0 +1,5 @@
+Set                  vs.            List
+	               
+Allows duplicates	    Does not allow duplicates
+Maintains order 	    Does not guarantee order
+Access by index	            No index-based access
