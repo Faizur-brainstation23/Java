@@ -16,6 +16,7 @@ public class Loops{
           i = i + 1;
       } while (i < 20);
      */
+        //
 
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -31,5 +32,6 @@ public class Loops{
 
         }
     }
+
 
 
